@@ -3,7 +3,7 @@
  * Plugin Name: WordPress SVG Upload
  * Plugin URI: https://github.com/sparatan117/wp-svg-upload
  * Description: Enables SVG upload support in WordPress media library
- * Version: 1.1.0
+ * Version: 1.0.2
  * Author: Austin Ross
  * Author URI: https://rossworks.net
  * License: GPL v2 or later
